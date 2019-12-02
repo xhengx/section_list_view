@@ -1,6 +1,6 @@
 name: section_list_view
 description: A ListView like iOS UITableView with Sticky Seciton Header Footer
-version: 0.1.1
+version: 0.1.2
 author: XIAOHENG LIU <xiaoheng.liu@gmail.com>
 homepage: https://github.com/xhengx/section_list_view
 
