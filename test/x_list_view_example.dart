@@ -5,7 +5,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:section_list_view/section_list_view//x_section_list_view.dart';
+import 'package:section_list_view/section_list_view/x_section_list_view.dart';
 
 class XSectionListViewExample extends StatefulWidget {
   XSectionListViewExample({Key key}) : super(key: key);
