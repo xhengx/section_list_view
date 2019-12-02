@@ -1,8 +1,8 @@
 name: section_list_view
-description: A new Flutter package project.
-version: 0.0.1
-author:
-homepage:
+description: A ListView like iOS UITableView with Sticky Seciton Header Footer
+version: 0.1.0
+author: XIAOHENG LIU <xiaoheng.liu@gmail.com>
+homepage: https://github.com/xhengx/section_list_view
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
